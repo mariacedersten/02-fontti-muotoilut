@@ -43,20 +43,30 @@ h6 {
   font-size: 2rem;
 }
 .strong {
+  font-weight: 700;
 }
 .italic {
+  font-style: italic;
 }
 .marked {
+  color: black;
+  background-color: #ffff00;
 }
 .small {
+  color: #ed1711;
+  font-size: small;
 }
 .overlined {
+  text-decoration: line-through;
 }
 .underlined {
+  text-decoration: underline;
 }
 .subscript {
+  vertical-align: sub;
+  font-size: 0.8rem;
 }
 .superscript {
-}
-.italic {
+  vertical-align: super;
+  font-size: 0.9rem;
 }
